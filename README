@@ -1,0 +1,28 @@
+===================================================
+| GRUBLET: A PHP WRAPPER AROUND THE PUNCHFORK API |
+===================================================
+Thank you for choosing Grublet!
+
+This is my first attempt at writing a library. Please send all of your 
+feedback to <adam> at runbymany <dot> com. I've licensed this library as GPL 
+v3 or later. I plan on being the only author for quite some time so if you 
+would like to discuss this decision and the possibility of licensing it under 
+another license then please use my e-mail address to contact me.
+
+As of 09/06/11 the PunchFork API supports the following requests:
+
+1) Recipe Search
+2) Random Recipe
+3) List of Publishers
+4) Generate Search Index
+5) Rate Limit Status
+
+I will attempt to "keep up" with the changes to the PunchFork API but to obtain
+timely information it is best to visit http://api.punchfork.com.
+
+To use Grublet simply add this directory to your project and include the "Grublet.php" file in your code.
+
+This library is an independent work and NOT SANCTIONED by PunchFork, Inc. or 
+any of its affiliates.
+
+PunchFork is Copyright 2011 by PunchFork, Inc.

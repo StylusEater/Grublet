@@ -1,0 +1,5 @@
+[PF]
+API_KEY = "YOUR PUNCHFORK API KEY"
+# 0 - free, 1 - paid, 2 - ultra
+API_TYPE = 0
+API_VERSION = 0.1
