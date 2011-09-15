@@ -1,0 +1,3 @@
+#!/bin/bash
+yum install php-pear php-pdo php-dom 
+sh pear-setup.sh
